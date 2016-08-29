@@ -1,0 +1,15 @@
+#svg-container {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/0/02/SVG_logo.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 200px;
+}
+
+#png-container {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 200px;
+}
